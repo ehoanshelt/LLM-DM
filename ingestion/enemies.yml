@@ -1,0 +1,19 @@
+enemies:
+  enemy:
+    name: "Goblin"
+    health: 40
+    movement speed: slow
+    attack speed: slow
+    weapon: hands
+    crit_chance: .01
+    crit_multipler: .2
+  enenmy:
+    name: "Soldier"
+    health: 100
+    movement speed: "fast"
+    attack speed: "fast"
+    weapon: "sword"
+      attack: 10
+      strength: 5
+    crit_chance: .01
+    crit_multipler: .3

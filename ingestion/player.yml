@@ -1,0 +1,13 @@
+players:
+  player:
+    name: "EHO"
+    health: 90
+    movement speed: "medium"
+    attack speed: "medium"
+    weapon: staff
+      damage: 15
+      strength: 5
+    crit_chance: .03
+    crit_multipler: .4
+    skills:
+      fire blast
